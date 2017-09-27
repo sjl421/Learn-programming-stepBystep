@@ -1,0 +1,3 @@
+# 给代码添加行号
+ 
+ python addLineNumber.py < addLineNumber.py > lineNumbered.py
