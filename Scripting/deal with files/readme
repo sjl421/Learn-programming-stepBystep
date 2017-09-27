@@ -1,3 +1,8 @@
 # 给代码添加行号
- 
- python addLineNumber.py < addLineNumber.py > lineNumbered.py
+
+调用：
+打开cmd; 进入 addLineNumber.py 所在dir;
+python addLineNumber.py < addLineNumber.py > lineNumbered.py
+
+参考：
+https://docs.python.org/release/2.7.4/tutorial/inputoutput.html#reading-and-writing-files
