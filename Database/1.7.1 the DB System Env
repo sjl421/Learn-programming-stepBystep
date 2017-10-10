@@ -1,0 +1,25 @@
+# 1.7.1 the DB system environment
+
+数据库系统指的是一系列组件，这些组件规定了在这个数据库环境中 数据的聚合，存储，管理和使用。
+从管理角度看，数据库系统包含以下五大部分：hardware, software, people, procedures, and data.
+
+1 Hardware. Hardware refers to all of the system’s physical devices; for example, computers (PCs, workstations,
+servers, and supercomputers), storage devices, printers, network devices (hubs, switches, routers, fiber optics),
+and other devices (automated teller machines, ID readers, and so on).
+
+2 Software. Although the most readily identified software is the DBMS itself, to make the database system
+function fully, three types of software are needed: operating system software, DBMS software, and application
+programs and utilities.
+
+- Operating system software manages all hardware components and makes it possible for all other software
+to run on the computers. Examples of operating system software include Microsoft Windows, Linux, Mac
+OS, UNIX, and MVS.
+- DBMS software manages the database within the database system. Some examples of DBMS software
+include Microsoft’s SQL Server, Oracle Corporation’s Oracle, Sun’s MySQL, and IBM’s DB2.
+- Application programs and utility software are used to access and manipulate data in the DBMS and to
+manage the computer environment in which data access and manipulation take place. Application
+programs are most commonly used to access data found within the database to generate reports,
+tabulations, and other information to facilitate decision making. Utilities are the software tools used to help
+manage the database system’s computer components. For example, all of the major DBMS vendors now
+provide graphical user interfaces (GUIs) to help create database structures, control database access, and
+monitor database operations.
