@@ -20,3 +20,15 @@ from “old” knowledge.
  A database is a shared, integrated computer structure that stores a collection of:
 ***End-user data, that is, raw facts of interest to the end user.
 ***Metadata, or data about data, through which the end-user data are integrated and managed.
+
+---数据冗余
+ Data redundancy exists when the same data are stored unnecessarily at different places.
+ 
+ ---设计文档 Design documentation
+Design documentation is necessary to facilitate communication among the database designer, the end
+user, and the developer. 
+
+---数据模型 Data modeling
+ The data model also provides an invaluable resource when
+maintaining or modifying a database as business requirements change. The data designs created by end users are rarely
+documented and never with an appropriate standardized data-modeling technique. 
