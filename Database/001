@@ -1,0 +1,22 @@
+
+Data && Information
+
+---数据的格式化
+Keep in mind that raw data must be properly formatted for storage, processing, and presentation.
+For example, in Panel C of Figure 1.1, the student classification is formatted to show the results based 
+on the classifications Freshman, Sophomore, Junior, Senior, and Graduate Student. The respondents’ yes/no 
+responses might need to be converted to a Y/N format for data storage. More complex formatting is required 
+when working with complex data types, such as sounds, videos, or images.
+复杂数据类型：声音 视频 图片
+
+In this “information age,” production of accurate, relevant, and timely information is the key to good decision making.
+In turn, good decision making is the key to business survival in a global market.
+
+Knowledge implies familiarity, awareness, and understanding of
+information as it applies to an environment. A key characteristic of knowledge is that “new” knowledge can be derived
+from “old” knowledge.
+
+---数据库
+ A database is a shared, integrated computer structure that stores a collection of:
+***End-user data, that is, raw facts of interest to the end user.
+***Metadata, or data about data, through which the end-user data are integrated and managed.
